@@ -8,17 +8,10 @@ body {
   font-size: 14px;
 }
 
-h1 {
-  color: #FFFFFF;
-}
-
-p {
-  line-height: 130%;
-}
-
 .header {
   background-color: #222222;
   padding: 40px;
+  color: #FFFFFF;
 }
 
 .page-content {
@@ -29,4 +22,36 @@ p {
   background-color: #222222;
   padding: 40px;
   color: #FFFFFF;
+}
+
+h1 {
+
+}
+h2{
+
+}
+h3{
+
+}
+h4{
+
+}
+h5{
+
+}
+h6{
+
+}
+a{
+
+}
+em{
+
+}
+strong{
+
+}
+p {
+  line-height: 130%;
+  padding-bottom: 15px;
 }
